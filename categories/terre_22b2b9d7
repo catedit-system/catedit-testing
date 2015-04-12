@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#terre_22b2b9d7> rdfs:label "Terre" ;
+    rdf:Description "Planète du Système solaire. La Terre est l’une des quatre planètes telluriques, solides, de composée de roches silicatées et de fer, et d'une densité moyenne  de 5,52." ;
+    rdf:ID "terre_22b2b9d7" .
+
