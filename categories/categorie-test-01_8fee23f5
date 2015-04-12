@@ -3,7 +3,8 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#categorie-test-01_8fee23f5> rdfs:label "Catégorie_01" ;
-    rdf:Description "C'est juste une catégorie de test" ;
+<http://ld.iri-research.org/ontology/categorisation/category#categorie-test-01_8fee23f5> rdfs:label "Etoile" ;
+    rdf:Description """Astre autour duquel peut exister un système planétaire \r
+Totalement impossible d'imaginer la vie ici""" ;
     rdf:ID "categorie-test-01_8fee23f5" .
 
