@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#soleil_739813e7> rdfs:label "Soleil" ;
+    rdf:Description "Etoile du système solaire, distant d'environ 150 millions de kilomètres de la Terre. Le Soleil est situé à 8,5 kparsecs du centre de la Voie lactée. Dans la classification des étoiles, le soleil est une étoile de type G2." ;
+    rdf:ID "soleil_739813e7" .
+
