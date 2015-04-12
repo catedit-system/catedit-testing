@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#oceans_56e866cb> rdfs:label "Océans" ;
+    rdf:Description "Vaste étenduee d'eau salée à l'état liquide qui couvre les trois quarts de la surface Terrestre." ;
+    rdf:ID "oceans_56e866cb" .
+
