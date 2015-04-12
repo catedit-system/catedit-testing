@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#planete-tellurique_a4987b48> rdfs:label "Planète Tellurique" ;
+    rdf:Description "Planète principalement composée de roches et de métaux, ayant une densité relativement élevée, une rotation lente, une surface solide, pas d'anneaux et peu de satellites (Exemple : Mercure, Vénus, la Terre, et Mars)." ;
+    rdf:ID "planete-tellurique_a4987b48" .
+
