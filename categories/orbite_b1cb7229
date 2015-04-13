@@ -1,3 +1,4 @@
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
@@ -5,5 +6,6 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#orbite_b1cb7229> rdfs:label "Orbite" ;
     rdf:Description "Ensembles des données orbitales de l'objet céleste. L'orbite caractérise une planète puisqu'il fixe la distance entre la planète et l'étoile (ex : Jupiter chaude proche de l'étoile). En particulier l'orbite de la Terre autour du Soleil conditionne également l'habitabilité sur Terre (présence d'eau liquide)." ;
-    rdf:ID "orbite_b1cb7229" .
+    rdf:ID "orbite_b1cb7229" ;
+    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#planetes_7cccb6d8> .
 

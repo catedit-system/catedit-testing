@@ -8,5 +8,7 @@
     rdf:Description "Astre en orbite autour d'une étoile, possèdant une masse suffisante pour que sa gravité l'emporte sur les forces de cohésion du corps solide et le maintienne en équilibre hydrostatique, et qui a éliminé tout corps susceptible de se déplacer au voisinage de son orbite." ;
     rdf:ID "planetes_7cccb6d8" ;
     ns1:related <http://ld.iri-research.org/ontology/categorisation/category#exoplanete_c03ff960>,
-        <http://ld.iri-research.org/ontology/categorisation/category#planete-tellurique_a4987b48> .
+        <http://ld.iri-research.org/ontology/categorisation/category#planete-tellurique_a4987b48>,
+        <http://ld.iri-research.org/ontology/categorisation/category#satellite-regulier_070020ab>,
+        <http://ld.iri-research.org/ontology/categorisation/category#sattelite-irregulier_eebd8a00> .
 
