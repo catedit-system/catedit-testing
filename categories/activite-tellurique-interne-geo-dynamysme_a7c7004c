@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#activite-tellurique-interne-geo-dynamysme_a7c7004c> rdfs:label "Activité Tellurique Interne(Géo-Dynamysme)" ;
+    rdf:Description "Ensemble de phénomènes géologiques qui caractérisent l'activité interne d’une planète ou d’une lune Tellurique (Convection ; Effet dynamo ; Tectonique etc…)" ;
+    rdf:ID "activite-tellurique-interne-geo-dynamysme_a7c7004c" .
+
