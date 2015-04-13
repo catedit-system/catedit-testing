@@ -1,0 +1,11 @@
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#force-de-maree_a87c6f20> rdfs:label "Force de Marée" ;
+    rdf:Description "Accélération gravitationnelle qui comprime les objets dans certaines directions et les dilate dans d'autres." ;
+    rdf:ID "force-de-maree_a87c6f20" ;
+    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#orbite_b1cb7229> .
+
