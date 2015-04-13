@@ -1,3 +1,4 @@
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
@@ -6,5 +7,6 @@
 <http://ld.iri-research.org/ontology/categorisation/category#categorie-test-01_8fee23f5> rdfs:label "Etoile" ;
     rdf:Description """Astre autour duquel peut exister un système planétaire \r
 Totalement impossible d'imaginer la vie ici""" ;
-    rdf:ID "categorie-test-01_8fee23f5" .
+    rdf:ID "categorie-test-01_8fee23f5" ;
+    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#categorie-02_234efc49> .
 

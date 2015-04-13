@@ -1,3 +1,4 @@
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
@@ -5,5 +6,6 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#nuage-moleculaire_d062e728> rdfs:label "Nuage Moléculaire" ;
     rdf:Description "Zones plus denses du milieu interstellaire, composées du gaz sous forme moléculaire et de poussière. Région de formation des étoiles." ;
-    rdf:ID "nuage-moleculaire_d062e728" .
+    rdf:ID "nuage-moleculaire_d062e728" ;
+    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire_60a6d8b5> .
 
