@@ -5,5 +5,6 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#naine-rouge_994d0fc5> rdfs:label "Naine Rouge" ;
     rdf:Description "Etoile de Ckasse M. Les naines rouges sont les plus petites et les plus faibles des étoiles. Environ 80 % des étoiles sont des naines rouges, mais aucune n'est visible à l'œil nu depuis la Terre.Leur luminosité est très faible (environ 1 % au plus de celle du Soleil), les plus petites d'entre elles doivent pouvoir durer des milliers de milliards d'années. " ;
-    rdf:ID "naine-rouge_994d0fc5" .
+    rdf:ID "naine-rouge_994d0fc5" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#categorie-test-01_8fee23f5> .
 

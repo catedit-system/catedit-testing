@@ -5,5 +5,6 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#planete-tellurique_a4987b48> rdfs:label "Planète Tellurique" ;
     rdf:Description "Planète principalement composée de roches et de métaux, ayant une densité relativement élevée, une rotation lente, une surface solide, pas d'anneaux et peu de satellites (Exemple : Mercure, Vénus, la Terre, et Mars)." ;
-    rdf:ID "planete-tellurique_a4987b48" .
+    rdf:ID "planete-tellurique_a4987b48" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#planetes_7cccb6d8> .
 
