@@ -8,6 +8,5 @@
     rdf:Description "Ensemble de phénomènes géologiques qui caractérisent l'activité interne d’une planète ou d’une lune Tellurique (Convection ; Effet dynamo ; Tectonique etc…)" ;
     rdf:ID "activite-tellurique-interne-geo-dynamysme_a7c7004c" ;
     ns1:related <http://ld.iri-research.org/ontology/categorisation/category#planete-tellurique_a4987b48>,
-        <http://ld.iri-research.org/ontology/categorisation/category#satellite-regulier_070020ab>,
-        <http://ld.iri-research.org/ontology/categorisation/category#sattelite-irregulier_eebd8a00> .
+        <http://ld.iri-research.org/ontology/categorisation/category#satellite-regulier_070020ab> .
 
